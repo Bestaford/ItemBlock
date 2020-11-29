@@ -1,0 +1,8 @@
+name: ItemBlock
+main: Bestaford\ItemBlock
+api: 3.0.1
+version: 1
+author: Bestaford
+permissions:
+    itemblock.bypass:
+        default: op
